@@ -1,0 +1,5 @@
+{
+	"name": "randomgenerator",
+	"targetType": "executable",
+	"sourcePaths": ["source"]
+}
